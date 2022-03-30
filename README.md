@@ -7,7 +7,7 @@
   <li>🌱 I’m currently learning Web Development, Rails framework, Heroku.</li>
 </ul>
 
-![coding cat](https://raw.githubusercontent.com/agadelhaa/agadelhaa/master/images/bong-cat-codes.gif)
+![coding cat](https://raw.githubusercontent.com/agadelhaa/agadelhaa/master/images/bongo-cat-codes.gif)
 
 ### A little more about me:
 ```javascript
@@ -27,4 +27,3 @@ const amanda = {
 <a href="https://www.linkedin.com/in/amanda-gadelha-amorim-a3029417b/">
   <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
