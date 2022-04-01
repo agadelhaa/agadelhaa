@@ -7,7 +7,7 @@
   <li>🌱 I’m currently learning Web Development, Rails framework, Heroku.</li>
 </ul>
 
-![coding cat](https://raw.githubusercontent.com/agadelhaa/agadelhaa/master/images/bong-cat-codes.gif)
+![coding cat](https://raw.githubusercontent.com/agadelhaa/agadelhaa/master/images/bongo-cat-codes.gif)
 
 ### A little more about me:
 ```javascript
@@ -27,7 +27,7 @@ const amanda = {
 
 https://miaudota-lw.herokuapp.com/
 
-https://oneteach2.herokuapp.com/ 
+https://oneteach2.herokuapp.com/
 
 ### Where you can find me:
 
