@@ -27,7 +27,6 @@ https://miaudota-lw.herokuapp.com/
 
 https://oneteach2.herokuapp.com/
 
-
 ### Where you can find me:
 
 <a href="https://www.linkedin.com/in/amandagadelhaamorim">
