@@ -12,7 +12,7 @@
 ```javascript
 const amanda = {
   pronouns: "She" | "Her",
-  code: ["Ruby", "Javascript", "HTML", "CSS"],
+  code: ["Ruby", "Python", "Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "backend dev", "ruby", "rails"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
