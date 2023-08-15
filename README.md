@@ -4,7 +4,7 @@
 
 <ul>
   <li>👋 Hi, I’m Amanda Gadelha Amorim</li>
-  <li>❤️ I love programming in Ruby, solving challenges and improving my knowledges.</li>
+  <li>❤️ I love programming, solving challenges and improving my knowledges.</li>
   <li>🌱 I’m currently learning Web Development, Rails framework, Heroku.</li>
 </ul>
 
